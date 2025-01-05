@@ -1,0 +1,8 @@
+Basics of File Handling in C
+
+GeeksforGeeks
+https://www.geeksforgeeks.org
+·
+Traducir esta página
+11 oct 2024 — For opening a file in C, the fopen() function is used with the filename or file path along with the required access modes. Syntax of fopen().
+‎C fopen() Function · ‎C fread() Function · ‎Ftell() in C with example · ‎Fprintf()
